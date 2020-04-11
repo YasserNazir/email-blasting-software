@@ -1,0 +1,29 @@
+2020-04-11 06:33:16 - INFO: Email sent from: oopmailproject@gmail.com
+2020-04-11 06:33:16 - INFO:  
+2020-04-11 06:33:16 - INFO: **SENDING EMAIL**
+2020-04-11 06:33:20 - INFO: Sending email to yasserakarimo@gmail.com
+2020-04-11 06:33:20 - INFO: Recipient Name: Yasser A. K. Nazir
+2020-04-11 06:33:20 - INFO: Email Subject: Subject 1
+2020-04-11 06:33:20 - INFO: Attachment: /Users/yasserkarimo/Desktop/Email_Project/Dataset/Dataset.csv
+2020-04-11 06:33:20 - INFO: Email Sent
+2020-04-11 06:33:20 - INFO:  
+2020-04-11 06:33:23 - INFO: Sending email to yasserakarimo@live.com
+2020-04-11 06:33:23 - INFO: Recipient Name: Yasser Nazir
+2020-04-11 06:33:23 - INFO: Email Subject: Subject 2
+2020-04-11 06:33:23 - INFO: Attachment: /Users/yasserkarimo/Desktop/Email_Project/Dataset/Dataset.csv
+2020-04-11 06:33:23 - INFO: Email Sent
+2020-04-11 06:33:23 - INFO:  
+2020-04-11 06:33:27 - INFO: Sending email to yasserakarimo@yahoo.com
+2020-04-11 06:33:27 - INFO: Recipient Name: Yasser Karimo
+2020-04-11 06:33:27 - INFO: Email Subject: Subject 3
+2020-04-11 06:33:27 - INFO: Attachment: /Users/yasserkarimo/Desktop/Email_Project/Dataset/Dataset.csv
+2020-04-11 06:33:27 - INFO: Email Sent
+2020-04-11 06:33:27 - INFO:  
+2020-04-11 06:33:30 - INFO: Sending email to yasser_22331@utp.edu.my
+2020-04-11 06:33:30 - INFO: Recipient Name: Yasser
+2020-04-11 06:33:30 - INFO: Email Subject: Subject 4
+2020-04-11 06:33:30 - INFO: Attachment: /Users/yasserkarimo/Desktop/Email_Project/Dataset/Dataset.csv
+2020-04-11 06:33:30 - INFO: Email Sent
+2020-04-11 06:33:30 - INFO:  
+2020-04-11 06:33:30 - INFO: Elapsed Time: 14 Seconds 
+2020-04-11 06:33:30 - INFO: **PROGRAM END**
