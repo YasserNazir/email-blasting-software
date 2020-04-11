@@ -149,3 +149,8 @@
         logger.info( "Elapsed Time: " + interval.getSeconds() + " Seconds " );
         logger.info( "**PROGRAM END**" );
     }
+
+
+**The Dataset in .csv is divided into:**
+
+Email | Name | Email Subject | Body Text | Attachment Path | Attachment Name
